@@ -1,0 +1,5 @@
+dao.CustomerController=org.springframework.stereotype.Component
+dao.CustomerDAOImpl=org.springframework.stereotype.Component
+dao.CustomerServiceImpl=org.springframework.stereotype.Component
+entity.Customer=javax.persistence.Entity,javax.persistence.Table
+testdb.TestDbServlet=javax.servlet.annotation.WebServlet
