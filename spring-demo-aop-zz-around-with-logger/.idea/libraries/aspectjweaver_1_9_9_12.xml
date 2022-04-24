@@ -1,0 +1,90 @@
+<component name="libraryTable">
+  <library name="aspectjweaver-1.9.9.12">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/libs/aspectjweaver-1.9.9.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/libs/commons-logging-1.2.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/libs/javax.servlet-api-4.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/libs/spring-aop-5.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/libs/spring-aspects-5.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/libs/spring-beans-5.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/libs/spring-context-5.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/libs/spring-context-indexer-5.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/libs/spring-context-support-5.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/libs/spring-core-5.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/libs/spring-expression-5.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/libs/spring-instrument-5.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/libs/spring-jcl-5.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/libs/spring-jdbc-5.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/libs/spring-jms-5.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/libs/spring-messaging-5.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/libs/spring-orm-5.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/libs/spring-oxm-5.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/libs/spring-r2dbc-5.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/libs/spring-test-5.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/libs/spring-tx-5.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/libs/spring-web-5.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/libs/spring-webflux-5.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/libs/spring-webmvc-5.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/libs/spring-websocket-5.3.9.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/libs/spring-aop-5.3.9-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/libs/spring-aspects-5.3.9-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/libs/spring-beans-5.3.9-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/libs/spring-context-5.3.9-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/libs/spring-context-indexer-5.3.9-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/libs/spring-context-support-5.3.9-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/libs/spring-core-5.3.9-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/libs/spring-expression-5.3.9-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/libs/spring-instrument-5.3.9-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/libs/spring-jcl-5.3.9-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/libs/spring-jdbc-5.3.9-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/libs/spring-jms-5.3.9-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/libs/spring-messaging-5.3.9-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/libs/spring-orm-5.3.9-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/libs/spring-oxm-5.3.9-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/libs/spring-r2dbc-5.3.9-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/libs/spring-test-5.3.9-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/libs/spring-tx-5.3.9-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/libs/spring-web-5.3.9-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/libs/spring-webflux-5.3.9-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/libs/spring-webmvc-5.3.9-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/libs/spring-websocket-5.3.9-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/libs/spring-aop-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/libs/spring-aspects-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/libs/spring-beans-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/libs/spring-beans-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/libs/spring-context-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/libs/spring-context-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/libs/spring-context-indexer-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/libs/spring-context-support-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/libs/spring-core-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/libs/spring-core-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/libs/spring-expression-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/libs/spring-instrument-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/libs/spring-jcl-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/libs/spring-jdbc-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/libs/spring-jdbc-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/libs/spring-jms-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/libs/spring-messaging-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/libs/spring-messaging-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/libs/spring-orm-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/libs/spring-oxm-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/libs/spring-r2dbc-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/libs/spring-r2dbc-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/libs/spring-test-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/libs/spring-test-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/libs/spring-tx-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/libs/spring-tx-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/libs/spring-web-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/libs/spring-web-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/libs/spring-webflux-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/libs/spring-webflux-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/libs/spring-webmvc-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/libs/spring-webmvc-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/libs/spring-websocket-5.3.9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

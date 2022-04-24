@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-demo-aop-poincut-order-aspects" />
+        <module name="spring-demo-aop" />
+        <module name="spring-demo-aop-poincut-declarations" />
+        <module name="spring-demo-aop-read-jointpoints" />
+        <module name="spring-demo-annotations" />
+        <module name="spring-demo-aop-poincut-declarations-combo" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
