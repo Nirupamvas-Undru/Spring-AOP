@@ -1,6 +1,0 @@
-com.aspect.CRMLoggingAspect=org.springframework.stereotype.Component
-com.dao.CustomerController=org.springframework.stereotype.Component
-com.dao.CustomerDAOImpl=org.springframework.stereotype.Component
-com.dao.CustomerServiceImpl=org.springframework.stereotype.Component
-com.entity.Customer=javax.persistence.Entity,javax.persistence.Table
-testdb.TestDbServlet=javax.servlet.annotation.WebServlet
